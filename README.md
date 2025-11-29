@@ -8,19 +8,30 @@ This tool helps users instantly generate strong, customizable passwords to impro
 
 **🚀 Features**
 <br>
-✔ Generate strong random passwords
-✔ Choose password length
-✔ Includes uppercase, lowercase, numbers & special characters
-✔ One-click password copy
-✔ Clean and responsive UI
-✔ Lightweight and beginner-friendly code
+✔ Generate strong random passwords <br>
 
-**🛠 Tech Stack**
-HTML5 – structure
-CSS3 – styling & responsiveness
-JavaScript (Vanilla) – logic for password generation
+✔ Choose password length <br>
 
-**📦 How to Use**
+✔ Includes uppercase, lowercase, numbers & special characters <br>
+
+✔ One-click password copy <br>
+
+✔ Clean and responsive UI <br>
+
+✔ Lightweight and beginner-friendly code <br>
+
+
+**🛠 Tech Stack** <br>
+
+HTML5 – structure <br>
+
+CSS3 – styling & responsiveness <br>
+
+JavaScript (Vanilla) – logic for password generation <br>
+
+
+**📦 How to Use** <br>
+
 Select your desired password length
 Choose character types (uppercase, lowercase, numbers, symbols)
 Click Generate Password
