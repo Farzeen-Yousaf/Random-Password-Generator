@@ -7,6 +7,7 @@ A simple, fast, and secure Random Password Generator built using HTML, CSS, and 
 This tool helps users instantly generate strong, customizable passwords to improve account security and protect against brute-force attacks.
 
 **🚀 Features**
+<br>
 ✔ Generate strong random passwords
 ✔ Choose password length
 ✔ Includes uppercase, lowercase, numbers & special characters
